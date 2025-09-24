@@ -1,0 +1,7 @@
+Corner Roundness Radius = 20 (inactive and active)
+Disable roundness on maximize
+Disable roundness on fullscreen
+
+---
+
+Use Native Decoration Shadows

@@ -1,0 +1,20 @@
+Blur strenght = 2
+Noise strenght = 6
+Window opacity affects blur
+
+bsr = 1,1,1
+
+---
+
+Refraction strenght = 14
+Mode = Concave
+Refraction edge size = 10
+Refraction falloff = 8
+Refraction corner radius = 7
+RBG fringing strenght = 28
+
+---
+
+Rounded corners = 20 (all)
+Anti-Aliasing = 1
+Round maximized windows = false
